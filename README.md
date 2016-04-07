@@ -20,4 +20,4 @@ rake build
 rake deploy
 ```
 
-This documentation is written o top of [Slate](https://github.com/tripit/slate).
+This documentation is written on top of [Slate](https://github.com/tripit/slate).
